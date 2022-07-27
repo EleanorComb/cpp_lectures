@@ -21,4 +21,5 @@ auto           main() -> int
 
         const MatI n {{1, 2, 3, 4, 5}};
         n(0, 1);
+        // pointless change
 }
